@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="statusBarBackground">#BBBBBB</color>
+
+    <!-- Gradient Palettes-->
+    <color name="gradientRedOceanStart">#A43931</color>
+    <color name="gradientRedOceanEnd">#1D4350</color>
+
+    <color name="gradientTranquilStart">#EF629F</color>
+    <color name="gradientTranquilEnd">#EECDA3</color>
+
+    <color name="gradientDeepSpaceStart">#434343</color>
+    <color name="gradientDeepSpaceEnd">#000000</color>
+
+    <color name="gradientMiamiDolphinStart">#D39D38</color>
+    <color name="gradientMiamiDolphinEnd">#4DA0B0</color>
+    
+    <color name="gradientPizelexStart">#F29492</color>
+    <color name="gradientPizelexEnd">#114357</color>
+
+    <color name="gradientGreenBlueStart">#64b3f4</color>
+    <color name="gradientGreenBlueEnd">#c2e59c</color>
+
+    <color name="dividerLight">#898989</color>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyAccountUi</string>
+
+    <!-- DUMMY TEXT -->
+    <string name="username">Bob Marley</string>
+    <string name="user_intro">Jamaican singer-songwriter</string>
+    <string name="flames">6 Flames</string>
+    <string name="invite_friends">Invite Friends</string>
+    <string name="my_profile">My Profile</string>
+    <string name="preferences">Preferences</string>
+    <string name="support">Support</string>
+</resources>
